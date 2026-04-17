@@ -1,7 +1,6 @@
 // Halaman 161
 // Buatlah pengurutan shell (shell sort) dalam memilih kendaraan bermotor dari 
-// harga termurah sampai harga termahal (dengan harga silahkan tentukan 
-// sendiri).  
+// harga termurah sampai harga termahal (dengan harga silahkan tentukan sendiri).  
 
 
 #include <iostream>
